@@ -1,0 +1,356 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+    list-style-type: none;
+}
+div#web {
+    width: 100%;
+    background-color:#EBEBEB;
+}
+
+.wrap {
+    width: 80%;
+    margin: auto;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    background-color: white;
+}
+
+.hd-one {
+    width: 30%;
+}
+
+.hd-one img {
+    width: 100%;
+}
+
+.hd-two {width: 40%;display: flex;}
+
+.hd-two input {
+    width: 65%;
+    padding: 11px;
+    border-radius: 14px;
+    border: 1px solid black;
+}
+
+.hd-two button {
+    width: 13%;
+    padding: 11px;
+    border: 1px solid black;
+    border-radius: 11px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.hd-three-1 button {
+    padding: 10px;
+    font-weight: bold;
+    background-color: white;
+    border: 1px solid black;
+}
+.hd-two form {
+    width: 65%;
+    line-height: 77px;
+}
+
+.hd-three {
+    width: 30%;
+    display: flex;
+}
+div#hd-two-1 {
+    width: 30%;
+    padding-top: 14px;
+}
+
+div#hd-two-1 p:nth-child(2) {
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+}
+
+.hd-three-1 {
+    width: 35%;
+    line-height: 57px;
+}
+
+.tymcart {
+    width: 32.5%;
+    text-align: center;
+    position: relative;
+    line-height: 85px;
+}
+
+.tymcart i {
+    font-weight: bold;
+    font-size: 45px;
+    position: relative;
+}
+span#tym {
+    position: absolute;
+    left: 54px;
+    color: white;
+    font-weight: bold;
+    top: -12px;
+}
+div#menu {
+    width: 100%;
+    background-color: #1E1E1E;
+}
+
+div#menu ul {
+    width: 100%;
+    display: flex;
+}
+
+div#menu ul li {
+    padding: 10px 20px;
+    text-align: center;
+    width: 14%;
+}
+
+div#menu ul li a {
+    color: white;
+    font-weight: bold;
+}
+
+.banner {
+    width: 100%;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.wrap_p {
+    font-weight: bold;
+    font-size: 28px;
+    padding: 10px 0px;
+    border: 1px solid #ccc;
+}
+.uuDaiTrongNgay {
+    width: 100%;
+    display: flex;
+    padding: 1em 0em;
+    background-color: white;
+}
+
+.sp {
+    width: 18%;
+    padding: 1%;
+    text-align: center;
+}
+
+.sp img {
+    width: 95%;
+    padding: 2.5%;
+    height: 315px;
+}
+.sp a p:nth-child(1) {
+    font-size: 18px;
+}
+
+.sp a:nth-child(1) {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.sp p {
+    color: red;
+    font-weight: bold;
+}
+.mauHot {
+    width: 100%;
+    display: flex;
+    padding: 1em 0em;
+    background-color: white;
+}
+.wrap2 {
+    width: 60%;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    padding: 1em 0em;
+}
+
+.why {
+    width: 30%;
+    padding: 1.5%;
+    text-align: center;
+    background-color: white;
+}
+.why p {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.why h6 {
+    color: blue;
+    cursor: pointer;
+}
+
+.why h6:hover {
+    color: black;
+}
+.thuongHieu {
+    width: 100%;
+    display: flex;
+    padding: 2em 0em;
+    background-color: white;
+}
+
+.img-ThuongHieu {
+    width: 20%;
+}
+
+.img-ThuongHieu img {
+    width: 95%;
+    padding: 2.5%;
+    height: 250px;
+}
+.blog {
+    width: 100%;
+    display: flex;
+    padding: 2em 0em;
+    background-color: white;
+}
+
+.sub-blog {
+    width: 23%;
+    padding: 1%;
+}
+.sub-blog a {
+    padding: 5px 0px;
+}
+.sub-blog img {
+    width: 100%;
+}
+.sub-blog a:nth-child(3) {
+    font-weight: bold;
+}
+.sub-blog p a:nth-child(1) {
+    color: blue;
+}
+
+.sub-blog p {
+    padding: 5px 0px;
+    color: darkgreen;
+}
+
+.sub-blog p a:nth-child(2) {
+    color: #ccc;
+}
+div#footer {
+    width: 100%;
+}
+
+.form-type-email {width: 50%;margin: auto;text-align: center;}
+
+.footer-sub {
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+div#footer {
+    width: 100%;
+}
+
+.form-type-email {width: 50%;margin: auto;text-align: center;}
+
+.footer-sub {
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+
+.form-type-email form i {
+    font-size: 45px;
+    position: relative;
+    top: 11px;
+    color:#ccc;
+}
+
+.form-type-email form input {
+    padding: 10px 50px 10px 5px;
+}
+
+.form-type-email form button {
+    padding: 10px 20px;
+    background-color: red;
+    border: 1px solid red;
+    font-weight: bold;
+    color: white;
+}
+div#footer {
+    width: 100%;
+}
+
+.form-type-email {width: 50%;margin: auto;text-align: center;padding: 2em;}
+
+.footer-sub {
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+
+.form-type-email form i {
+    font-size: 45px;
+    position: relative;
+    top: 11px;
+    color:#ccc;
+}
+
+.form-type-email form input {
+    padding: 10px 50px 10px 5px;
+}
+
+.form-type-email form button {
+    padding: 10px 20px;
+    background-color: red;
+    border: 1px solid red;
+    font-weight: bold;
+    color: white;
+}
+
+.footer-sub-1 {
+    width: 30%;
+    padding: 1.5%;
+}
+
+.footer-sub-1 h1 {
+    font-size: 26px;
+}
+
+.footer-sub-1 ul li {
+    font-weight: bold;
+    padding: 8px 0px;
+}
+ul.submee {
+    display: flex;
+}
+
+ul.submee li {
+    padding: 14px 16px;
+}
+ul.submee {
+    display: flex;
+}
+
+ul.submee li {
+    padding: 14px 16px;
+}
+
+.footer-col {
+    width: 50%;
+}
+
+.block {
+    padding: 10px 0px;
+}
+.footer-col p {
+    line-height: 30px;
+}

@@ -1,0 +1,78 @@
+.chitietsanpham {
+    width: 100%;
+    display: flex;
+}
+
+.chitietsanpham-one {
+    width: 45%;
+    height: 550px;
+    background-color: white;
+}
+
+.chitietsanpham-one img {
+    width: 100%;
+    position: relative;
+    height: 550px;
+    object-fit: contain;
+}
+
+.chitietsanpham-two {
+    width: 53%;
+    padding: 0% 1%;
+}
+p.cost1 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 12px;
+    padding: 10px 0px;
+    border: 1px solid;
+}
+
+.khuyenmai {
+    width: 100%;
+    padding: 10px 0px;
+    border: 1px solid;
+    margin: 8px 0px;
+}
+p.cost1 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 12px;
+    padding: 10px 0px;
+    border: 1px solid;
+}
+
+.khuyenmai {
+    width: 100%;
+    padding: 10px 0px;
+    border: 1px solid;
+    margin: 8px 0px;
+}
+
+.chitietsanpham-two button {
+    background-color: #CE1F2B;
+    padding: 10px 20px;
+    font-weight: bold;
+    color: white;
+    border: 2px solid #CE1F2B;
+    border-radius: 9px;
+    margin: 1em 0em;
+}
+form#formnumberphone {
+    width: 100%;
+}
+
+form#formnumberphone input {
+    padding: 14px;
+    width: 210px;
+}
+
+form#formnumberphone button {
+    padding: 13px 26px;
+}
+.motasanpham {
+    font-weight: bold;
+    font-size: 25px;
+    padding: 2em;
+    background-color: white;
+}

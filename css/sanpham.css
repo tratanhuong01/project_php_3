@@ -1,0 +1,77 @@
+.spfull {
+    width: 99%;
+    display: flex;
+    padding: 2em 0em;
+    background-color: white;
+    padding: 0.5%;
+}
+
+.spfull-one {
+    width: 25%;
+}
+
+.spfull-two {
+    width: 75%;
+}
+.sp1 {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+.sp1 img {
+    width: 95%;
+    height: 315px;
+    padding: 2.5%;
+}
+.sp1 a p:nth-child(1) {
+    font-size: 18px;
+}
+
+.sp1 a:nth-child(1) {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.sp1 p {
+    color: red;
+    font-weight: bold;
+}
+.mauHot1 {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.spfull-one p {
+    font-weight: bold;
+    font-size: 20px;
+    padding: 8px 0px;
+}
+
+.spfull-one form input {
+    padding: 6px;
+}
+
+.spfull-one form button {
+    padding: 6px;
+}
+.loc {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.loc input {
+    margin-right: 15px;
+}
+
+form#boloc select {
+    padding: 9px;
+    width: 200px;
+    font-weight: bold;
+}
+
+form#boloc button {
+    padding: 8px;
+    font-weight: bold;
+}
